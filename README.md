@@ -1,7 +1,7 @@
 # Thoropass
 
-# First do stuff
-# OR
-# Next other
-# AND
-# NOTHING
+First do stuff
+OR
+Next other
+AND
+NOTHING
